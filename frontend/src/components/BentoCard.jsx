@@ -5,7 +5,7 @@ const BentoCard = ({
 }) => {
 	const subHeaderStyle = `text-custom-grey-400 text-base w-full ${
 		headers.subHeaders.length > 2
-			? "absolute left-[150px] w-[75%] flex justify-around 5"
+			? "absolute left-[150px] w-[73%] flex justify-around"
 			: "text-right pr-9"
 	} `;
 

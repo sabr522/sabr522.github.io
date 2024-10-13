@@ -1,6 +1,9 @@
 import ManagerSideBar from "../../components/ManagerSideBar";
 import profilePic from "../../assets/psa/profile_pic.png";
 import { useLocation } from "react-router-dom";
+import { useEffect, useState } from "react";
+import teamServices from "../../services/teamServices";
+import skillChart from "../../assets/psa/skillChart.jpg";
 
 const MOCKAIDATA = {
 	StrongPoints: [
@@ -23,11 +26,6 @@ const MOCKAIDATA = {
 };
 
 const Profile = () => {
-
-    const location = useLocation();
-	const { selectedEmployeeId } = location.state || {};
-
-    // use the ID to access JSON and get profile data
 	return (
 		<div className="flex w-full mt-3 ">
 			<ManagerSideBar />
@@ -37,27 +35,36 @@ const Profile = () => {
 			</div>
 
 			<div className="mx-3 w-[30%] min-h-screen">
+				
 				<SideCards height="30%">
 					<h3 className="text-xl font-bold"> Employee Skills</h3>
+					<img src={skillChart} alt="Skill Chart" className="w-[95%] h-[95%] object-contain rounded-[30px] py-2" />
 				</SideCards>
 				<SideCards height="40%">
 					<h3 className="text-xl font-bold"> Career Progression</h3>
-                    <BoxesCards role="Developer" years="4 years"/>
-                    <BoxesCards role="Senior Developer" years="3 years" />
-                    <BoxesCards role="Consultant" years="2 years" />
-                    <BoxesCards role="Senior Consultant" years="5 months"/>
+					<BoxesCards role="Developer" years="4 years" />
+					<BoxesCards role="Senior Developer" years="3 years" />
+					<BoxesCards role="Consultant" years="2 years" />
+					<BoxesCards role="Senior Consultant" years="5 months" />
 				</SideCards>
 				<SideCards height="21%">
-                    <h3 className="text-xl font-bold"> Completed Courses</h3>
-                    <BoxesCards role="GeekOut 2024"/>
-                    <BoxesCards role="Coding For Kids"/>
-                </SideCards>
+					<h3 className="text-xl font-bold"> Completed Courses</h3>
+					<BoxesCards role="GeekOut 2024" />
+					<BoxesCards role="Coding For Kids" />
+				</SideCards>
 			</div>
 		</div>
 	);
 };
 
 const BentoCard = () => {
+	const [remarksData, setRemarksData] = useState("");
+
+	const handleClick = async () => {
+		const remarks = await teamServices.getRemarks();
+		setRemarksData(() => remarks);
+	};
+
 	return (
 		<div className="pb-5 flex flex-col border border-gray-200 rounded-[30px] shadow-lg bg-custom-grey-500">
 			<div className="flex justify-between items-center p-4">
@@ -66,24 +73,25 @@ const BentoCard = () => {
 			</div>
 
 			<div className="flex flex-col gap-5 p-4">
-				{MOCKAIDATA.StrongPoints.map((data) => {
-					return <SummaryCards key={data.Point} data={data} />;
-				})}
+				{remarksData &&
+					remarksData.StrongPoints.map((data) => {
+						return <SummaryCards key={data.Point} data={data} />;
+					})}
 			</div>
 			<div className="w-[97%] flex justify-end">
-				<GenerateButton />
+				<GenerateButton handleClick={handleClick} />
 			</div>
 		</div>
 	);
 };
 
 const BoxesCards = ({ role, years }) => {
-    return (
-        <div className="w-full flex justify-between p-3 bg-custom-grey-100 rounded-[20px] text-center shadow-md my-3">
-            <p>{role}</p>
-            <p >{years}</p>
-        </div>
-    )
+	return (
+		<div className="w-full flex justify-between p-3 bg-custom-grey-100 rounded-[20px] text-center shadow-md my-3">
+			<p>{role}</p>
+			<p>{years}</p>
+		</div>
+	);
 };
 
 const SummaryCards = ({ data }) => {
@@ -126,25 +134,42 @@ const DropdownBox = () => {
 	);
 };
 
-const GenerateButton = () => {
+const GenerateButton = ({ handleClick }) => {
 	return (
-		<button className="font-semibold px-5 py-3 rounded-[8px] bg-custom-purple-600 text-custom-grey-100 w-[30%] hover:bg-custom-purple-500">
+		<button
+			className="font-semibold px-5 py-3 rounded-[8px] bg-custom-purple-600 text-custom-grey-100 w-[30%] hover:bg-custom-purple-500"
+			onClick={handleClick}
+		>
 			AI Summarise
 		</button>
 	);
 };
 
 const TopPortion = () => {
+	const location = useLocation();
+	const { teamMember } = location.state || {};
+	const [profile, setProfile] = useState("");
+
+	useEffect(() => {
+		setProfile(() => teamMember);
+	}, []);
+
 	return (
-		<div className="flex">
+		<div className="flex mb-8">
 			<img src={profilePic} alt="Profile Picture" />
-			<div className="flex flex-col h-[220px] gap-5 my-3 ml-3">
-				<h1 className="font-bold text-xl border-b-2 border-gray-300 mb-4 ">
-					Name:
+			<div className="flex flex-col h-[220px] gap-5 ml-10">
+				<h1 className="font-bold text-2xl border-b-2 border-gray-300 mb-4 ">
+					Name: {profile.Name}
 				</h1>
-				<p>Department: </p>
-				<p>Team: </p>
-				<p>Years Of Experience: </p>
+				<p className="text-[20px]">
+					<b>Department:</b> {profile.Department}
+				</p>
+				<p className="text-[20px]">
+					<b>Team:</b> {profile.teamId}
+				</p>
+				<p className="text-[20px]">
+					<b>Years Of Experience:</b> {profile["Years of Experience"]}
+				</p>
 			</div>
 		</div>
 	);
@@ -153,7 +178,7 @@ const TopPortion = () => {
 const SideCards = ({ height, children }) => {
 	return (
 		<div
-			className="bg-custom-grey-500 rounded-[20px] p-5 shadow-md mb-5"
+			className="bg-custom-grey-500 rounded-[20px] p-5 shadow-md mb-5 w-full"
 			style={{ height: height }}
 		>
 			{children}

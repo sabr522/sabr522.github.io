@@ -75,7 +75,7 @@ const Home = () => {
 			</div>
 
 			{/* Right side with login form */}
-			<div className="flex-[3] flex items-center justify-center h-full w-full p-8 bg-white">
+			<div className="flex-[3] flex  justify-center h-full w-full p-8 bg-white">
 				<LoginForm
 					username={username}
 					handleUsername={handleUsername}
