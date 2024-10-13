@@ -1,0 +1,106 @@
+[
+	{
+		"name": "By Employees",
+		"path": "/manager/employees"
+	},
+	{
+		"name": "Glenn Tan's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Glenn Tan"
+	},
+	{
+		"name": "David Chen's Profile",
+		"path": "/manager/profile",
+		"employeeId": "David Chen"
+	},
+	{
+		"name": "Ethan Tan's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Ethan Tan"
+	},
+	{
+		"name": "Goh Si Ling's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Goh Si Ling"
+	},
+	{
+		"name": "Aishah Rahman's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Aishah Rahman"
+	},
+	{
+		"name": "Jonathan Chen's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Jonathan Chen"
+	},
+	{
+		"name": "Daniel Tan's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Daniel Tan"
+	},
+	{
+		"name": "James Lim's Profile",
+		"path": "/manager/profile",
+		"employeeId": "James Lim"
+	},
+	{
+		"name": "Priya Patel's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Priya Patel"
+	},
+	{
+		"name": "Darren Wong's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Darren Wong"
+	},
+	{
+		"name": "Tom Zhen's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Tom Zhen"
+	},
+	{
+		"name": "Sarah Lee's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Sarah Lee"
+	},
+	{
+		"name": "Benjamin Lee's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Benjamin Lee"
+	},
+	{
+		"name": "Olivia Chen's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Olivia Chen"
+	},
+	{
+		"name": "Louie Ang's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Louie Ang"
+	},
+	{
+		"name": "Pan Xi Yi's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Pan Xi Yi"
+	},
+	{
+		"name": "Yusoff Rohan's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Yusoff Rohan"
+	},
+	{
+		"name": "Ethan John's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Ethan John"
+	},
+	{
+		"name": "Esther Lee's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Esther Lee"
+	},
+	{
+		"name": "Emily Wong's Profile",
+		"path": "/manager/profile",
+		"employeeId": "Emily Wong"
+	}
+]

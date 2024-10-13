@@ -1,0 +1,5 @@
+{
+  "recommendedCourses": [
+    {"course": "Beginner to Human Resource"},
+    {"course": "Resource planning I"}
+  ]

@@ -1,0 +1,42 @@
+[
+  {
+    "Group 1": [
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members","teamId": "Group 1"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members","teamId": "Group 1"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members","teamId": "Group 1"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members","teamId": "Group 1"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members","teamId": "Group 1"}
+    ],
+    "Rationale": "",
+  },
+  {
+    "Group 2": [
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members","teamId": "Group 2"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members","teamId": "Group 2"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members","teamId": "Group 2"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members","teamId": "Group 2"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members","teamId": "Group 2"}
+    ],
+    "Rationale": ""
+  },
+  {
+    "Group 3": [
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members", "teamId": "Group 3"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members", "teamId": "Group 3"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members", "teamId": "Group 3"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members", "teamId": "Group 3"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members", "teamId": "Group 3"}
+    ],
+    "Rationale": ""
+  },
+  {
+    "Group 4": [
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members", "teamId": "Group 4"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members", "teamId": "Group 4"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members", "teamId": "Group 4"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members", "teamId": "Group 4"},
+      {"Name": "", "Department": "", "Years of Experience": , "Email": "", "path": "/manager/members", "teamId": "Group 4"}
+    ],
+    "Rationale": ""
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "StrongPoints": [
+    {"Point": "Data Analysis", "Description": "Esther has shown proficiency in data analysis, which can be valuable in identifying trends and making informed decisions."},
+    {"Point": "Supply Chain Knowledge", "Description": "With a strong foundation in supply chain knowledge, Esther can contribute to optimizing logistics and inventory management."},
+    {"Point": "Inventory Management", "Description": "Esther's skills in inventory management can help the team streamline operations and reduce costs."}
+  ]
+}

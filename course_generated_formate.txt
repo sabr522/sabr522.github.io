@@ -1,0 +1,6 @@
+{
+  "recommendedCourses": [
+    {"course": ""},
+    {"course": ""}
+  ]
+}

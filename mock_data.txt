@@ -1,0 +1,219 @@
+Name: Glenn Tan
+    Department: IT Division 
+    Position: AI Analyst
+    Years of Experience: 1 
+    Potential skills: Programming skills, Statistical analysis, Critical thinking, Data interpretation, Effective communication
+    Hobbies: Hiking, baking
+    Additional info: Intrested in exploring more on what PSA has to offer.
+    professional Interests: Curious about Port opperation 
+    Email: Glenn_Tan@staff.psa.sg
+    Recent Course Completed: Beginner to Port opperation 
+
+Name: David Chen
+    Department: IT Division 
+    Position: Cybersecurity Analyst
+    Years of Experience: 5 
+    Potential Skills: Programming skills, Network security, Cybersecurity frameworks, Incident response, Ethical hacking
+    Hobbies: Enjoys sports and meeting new people
+    Additional info: Certified ethical hacker with expertise in threat intelligence and risk assessment.
+    professional Interests: Curious about Procurement
+    Email: David_Chen@staff.psa.sg
+    Recent Course Completed: Life-Long Finance Planning, Effective Communication Course
+
+Name: Ethan Tan
+    Department: IT Division 
+    Position: Network Engineer
+    Years of Experience: 7
+    Potential Skills: Network design, troubleshooting, routing protocols (BGP, OSPF), virtualization
+    Hobbies: Hiking, playing guitar, following tech trends
+    Additional Info: Enjoys staying updated on the latest networking technologies and building custom home networks.
+    professional Interests: Curious about Resource planning
+    Email: Ethan_Tan@staff.psa.sg
+    Recent Course Completed: Life-Long Finance Planning, Ethics of Artificial intelligence
+
+Name: Goh Si Ling
+    Department: Human Resources
+    Position: Human Resources Senior
+    Years of Experience: 10
+    Potential Skills: Employee relations, recruitment, performance management, talent acquisition
+    Hobbies: Traveling, playing basketball, volunteering
+    Additional Info: Committed to fostering a positive and inclusive work environment.
+    professional Interests: Curious about Programming
+    Email: Goh_Si_Ling@staff.psa.sg
+    Recent Course Completed: Basic to Programming, Intermediate Use of Microsoft
+
+Name: Aishah Rahman
+    Department: Supply Chain
+    Position: Supply Chain Analyst
+    Years of Experience: 5
+    Potential Skills: Supply chain optimization, inventory management, logistics, data analysis
+    Hobbies: Cooking, gardening, reading business books
+    Additional Info: Interested in exploring sustainable supply chain practices and reducing environmental impact.
+    professional Interests: Curious about Systems Administration
+    Email: Aishah_Rahman@staff.psa.sg
+    Recent Course Completed: Beginner to Systems Administration, Beginner to Programming
+
+Name: Jonathan Chen
+    Department: Marketing
+    Position: Marketing Senior
+    Years of Experience: 6
+    Potential Skills: Digital marketing, brand management, market research, content creation
+    Hobbies: Photography, social media, attending industry events
+    Additional Info: Experienced in developing and executing successful marketing campaigns.
+    professional Interests: Curious about Finance
+    Email: Jonathan_Chen@staff.psa.sg
+    Recent Course Completed: Life-Long Finance Planning, Improvement Course on Marketing
+
+Name: Daniel Tan
+    Department: Engineering
+    Position: Senior Engineer
+    Years of Experience: 12
+    Potential Skills: Structural engineering, site supervision, project management, CAD software
+    Hobbies: Hiking, playing soccer, reading engineering journals
+    Additional Info: Experienced in designing and overseeing the construction of large-scale infrastructure projects.
+    professional Interests: Curious about HR
+    Email: Daniel_Tan@staff.psa.sg
+    Recent Course Completed: Beginner to Human Resource, Refresment Course on Safety 
+
+Name: James Lim
+    Department: Engineering
+    Position: Mechanical Engineer
+    Years of Experience: 1
+    Potential Skills: Machinery design, maintenance, troubleshooting, CAD software
+    Hobbies: Playing basketball, fishing, tinkering with mechanical devices
+    Additional Info: Getting the hang in designing and maintaining port equipment, such as cranes and cargo handling systems.
+    professional Interests: Curious about Green technologies
+    Email: James_Lim@staff.psa.sg
+    Recent Course Completed: Green technologies
+
+Name: Priya Patel
+    Department: Engineering
+    Position: Electrical Engineer
+    Years of Experience: 3
+    Potential Skills: Power systems, electrical design, automation, troubleshooting
+    Hobbies: Playing video games, coding, attending tech conferences
+    Additional Info: Passionate about renewable energy and has experience in designing solar power systems.
+    professional Interests: Curious about Civil Engineering
+    Email: Priya_patel@staff.psa.sg
+    Recent Course Completed: Green technologies, Course on Safety I
+
+Name: Darren Wong
+    Department: Engineering
+    Position: Junior Civil Engineer
+    Years of Experience: 2
+    Potential Skills: Structural analysis, site observation, CAD software
+    Hobbies: Hiking, playing soccer, reading engineering journals
+    Additional Info: Eager to learn and grow in the field of civil engineering.
+    professional Interests: Curious about Programming
+    Email: Darren_Wong@staff.psa.sg
+    Recent Course Completed: Beginner to Programming, Basic Course on Safety 
+
+Name: Tom Zhen
+    Department: Engineering
+    Position: Recent Graduate Mechanical Engineer
+    Years of Experience: 0
+    Potential Skills: Mechanical design principles, CAD software, problem-solving
+    Hobbies: Playing basketball, fishing, tinkering with mechanical devices
+    Additional Info: Eager to apply theoretical knowledge to practical engineering projects.
+    professional Interests: Curious about everything
+    Email: Tom_Zhen@staff.psa.sg
+    Recent Course Completed: Beginner to Programming, Beginner to Port Operating 
+
+Name: Sarah Lee
+    Department: Port Operations
+    Position: Entry-Level Marine Traffic Controller
+    Years of Experience: 1
+    Potential Skills: Basic understanding of maritime traffic, radar systems, communication skills
+    Hobbies: Running, playing board games, volunteering at marine conservation organizations
+    Additional Info: Eager to learn and contribute to the safe and efficient operation of the port.
+    professional Interests: Curious about Resource planning
+    Email: Sarah_Lee@staff.psa.sg
+    Recent Course Completed: Life-Long Finance Planning
+
+Name: Benjamin Lee
+    Department: Engineering
+    Position: Junior Civil Engineer
+    Years of Experience: 2
+    Potential Skills: Structural analysis, site observation, CAD software
+    Hobbies: Hiking, playing soccer, reading engineering journals
+    Additional Info: Eager to learn and grow in the field of civil engineering.
+    professional Interests: Curious about Programming
+    Email: Benjamin_Lee@staff.psa.sg
+    Recent Course Completed: Beginner to Programming, Course on Safety I
+
+Name: Olivia Chen
+    Department: Finance
+    Position: Financial Analyst
+    Years of Experience: 3
+    Potential Skills: Financial modeling, budgeting, forecasting, data analysis
+    Hobbies: Reading, painting, cooking
+    Additional Info: Skilled in analyzing financial data and providing insights to support decision-making.
+    professional Interests: Curious about HR
+    Email: Olivia_Chen@staff.psa.sg
+    Recent Course Completed: Beginner to Human Resource, Beginner to Designing a Product
+
+Name: Louie Ang
+    Department: Finance
+    Position: Financial Controller
+    Years of Experience: 10
+    Potential Skills: Financial reporting, internal controls, compliance, risk management
+    Hobbies: Gardening, photography, learning new skills
+    Additional Info: Experienced in ensuring financial accuracy and compliance with regulations.
+    professional Interests: Curious about Cybersecurity
+    Email: Louie_Ang@staff.psa.sg
+    Recent Course Completed: Beginner to Cybersecurity
+
+Name: Pan Xi Yi
+    Department: Finance
+    Position: Entry-Level Financial Analyst
+    Years of Experience: 0
+    Potential Skills: Basic financial knowledge, data analysis, Excel proficiency
+    Hobbies: Reading, painting, volunteering
+    Additional Info: Eager to apply theoretical knowledge to practical finance roles.
+    professional Interests: Curious about Port opperation 
+    Email: Pan_Xi_Yi@staff.psa.sg
+    Recent Course Completed: Beginner to Port opperation
+
+Name: Yusoff Rohan
+    Department: Data Analytics
+    Position: Junior Big Data Engineer
+    Years of Experience: 2
+    Potential Skills: Hadoop, Spark, SQL, data warehousing
+    Hobbies: Gaming, coding, playing sports
+    Additional Info: Eager to learn and develop skills in big data engineering.
+    professional Interests: Curious about Finance
+    Email: Yusoff_Rohan@staff.psa.sg
+    Recent Course Completed: Life-Long Finance Planning
+
+Name: Ethan John
+    Department: Finance
+    Position: Financial Analyst Trainee
+    Years of Experience: 1
+    Potential Skills: Basic financial knowledge, data analysis, Excel proficiency
+    Hobbies: Gardening, photography, learning new skills
+    Additional Info: Eager to apply theoretical knowledge to practical finance roles.
+    professional Interests: Curious about Resource planning
+    Email: Ethan_John@staff.psa.sg
+    Recent Course Completed: Resource planning I
+
+Name: Esther Lee
+    Department: Supply Chain
+    Position: Junior Supply Chain Analyst
+    Years of Experience: 1
+    Potential Skills: Basic supply chain knowledge, data analysis, inventory management
+    Hobbies: Hiking, playing guitar, learning new software
+    Additional Info: Eager to learn and grow in the field of supply chain analysis.
+    professional Interests: Curious about Finance
+    Email: Esther_Lee@staff.psa.sg
+    Recent Course Completed: Life-Long Finance Planning
+
+Name: Emily Wong
+    Department: Procurement
+    Position: Procurement Intern
+    Years of Experience: 0
+    Potential Skills: Basic procurement knowledge, data analysis, supplier management
+    Hobbies: Traveling, playing basketball, volunteering
+    Additional Info: Eager to gain practical experience in procurement.
+    professional Interests: Curious about everything
+    Email: Emily_wong@staff.psa.sg
+    Recent Course Completed: Beginner to Programming

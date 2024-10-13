@@ -1,0 +1,44 @@
+Here is the grouping of the 20 individuals into 4 collaborative learning groups of around 5 members each, taking into consideration the factors of balancing years of experience and department:
+
+[
+  {
+    "Group 1": [
+      {"Name": "Glenn Tan", "Department": "IT Division", "Years of Experience": 1, "Email": "Glenn_Tan@staff.psa.sg", "path": "/manager/members", "teamId": "Group 1"},
+      {"Name": "Ethan Tan", "Department": "IT Division", "Years of Experience": 7, "Email": "Ethan_Tan@staff.psa.sg", "path": "/manager/members", "teamId": "Group 1"},
+      {"Name": "David Chen", "Department": "IT Division", "Years of Experience": 5, "Email": "David_Chen@staff.psa.sg", "path": "/manager/members", "teamId": "Group 1"},
+      {"Name": "Pan Xi Yi", "Department": "Finance", "Years of Experience": 0, "Email": "Pan_Xi_Yi@staff.psa.sg", "path": "/manager/members", "teamId": "Group 1"},
+      {"Name": "Emily Wong", "Department": "Procurement", "Years of Experience": 0, "Email": "Emily_Wong@staff.psa.sg", "path": "/manager/members", "teamId": "Group 1"}
+    ],
+    "Rationale": "Balanced years of experience and similar departments in IT Division and Finance/Procurement."
+  },
+  {
+    "Group 2": [
+      {"Name": "Goh Si Ling", "Department": "Human Resources", "Years of Experience": 10, "Email": "Goh_Si_Ling@staff.psa.sg", "path": "/manager/members", "teamId": "Group 2"},
+      {"Name": "Daniel Tan", "Department": "Engineering", "Years of Experience": 12, "Email": "Daniel_Tan@staff.psa.sg", "path": "/manager/members", "teamId": "Group 2"},
+      {"Name": "Jonathan Chen", "Department": "Marketing", "Years of Experience": 6, "Email": "Jonathan_Chen@staff.psa.sg", "path": "/manager/members", "teamId": "Group 2"},
+      {"Name": "Aishah Rahman", "Department": "Supply Chain", "Years of Experience": 5, "Email": "Aishah_Rahman@staff.psa.sg", "path": "/manager/members", "teamId": "Group 2"},
+      {"Name": "Sarah Lee", "Department": "Port Operations", "Years of Experience": 1, "Email": "Sarah_Lee@staff.psa.sg", "path": "/manager/members", "teamId": "Group 2"}
+    ],
+    "Rationale": "Balanced years of experience and diverse departments across the organization."
+  },
+  {
+    "Group 3": [
+      {"Name": "Benjamin Lee", "Department": "Engineering", "Years of Experience": 2, "Email": "Benjamin_Lee@staff.psa.sg", "path": "/manager/members", "teamId": "Group 3"},
+      {"Name": "Priya Patel", "Department": "Engineering", "Years of Experience": 3, "Email": "Priya_Patel@staff.psa.sg", "path": "/manager/members", "teamId": "Group 3"},
+      {"Name": "James Lim", "Department": "Engineering", "Years of Experience": 1, "Email": "James_Lim@staff.psa.sg", "path": "/manager/members", "teamId": "Group 3"},
+      {"Name": "Yusoff Rohan", "Department": "Data Analytics", "Years of Experience": 2, "Email": "Yusoff_Rohan@staff.psa.sg", "path": "/manager/members", "teamId": "Group 3"},
+      {"Name": "Ethan John", "Department": "Finance", "Years of Experience": 1, "Email": "Ethan_John@staff.psa.sg", "path": "/manager/members", "teamId": "Group 3"}
+    ],
+    "Rationale": "Similar departments in Engineering and Data Analytics, with balanced years of experience."
+  },
+  {
+    "Group 4": [
+      {"Name": "Louie Ang", "Department": "Finance", "Years of Experience": 10, "Email": "Louie_Ang@staff.psa.sg", "path": "/manager/members", "teamId": "Group 4"},
+      {"Name": "Olivia Chen", "Department": "Finance", "Years of Experience": 3, "Email": "Olivia_Chen@staff.psa.sg", "path": "/manager/members", "teamId": "Group 4"},
+      {"Name": "Esther Lee", "Department": "Supply Chain", "Years of Experience": 1, "Email": "Esther_Lee@staff.psa.sg", "path": "/manager/members", "teamId": "Group 4"},
+      {"Name": "Darren Wong", "Department": "Engineering", "Years of Experience": 2, "Email": "Darren_Wong@staff.psa.sg", "path": "/manager/members", "teamId": "Group 4"},
+      {"Name": "Tom Zhen", "Department": "Engineering", "Years of Experience": 0, "Email": "Tom_Zhen@staff.psa.sg", "path": "/manager/members", "teamId": "Group 4"}
+    ],
+    "Rationale": "Balanced years of experience and diverse departments across the organization."
+  }
+]

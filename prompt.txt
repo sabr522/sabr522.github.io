@@ -1,0 +1,25 @@
+Sharina's profile: 
+    woman in her 20 
+    likes JUDO 
+    is a computer science student
+    Stays in school 
+
+    Courses avaliable to do:
+    Calculus 
+    JUDO begainer
+    Pino classes 
+    Python Programming 
+
+    Data for skill chart:
+    Python 80%
+    JSON 40%
+    C Programming 30%
+    ROS 60%
+
+jon jon's profile:
+    Studied in NYP
+    is an engineer student
+    did nano tech engineer
+    guy in his 20 
+    likes JUDO
+

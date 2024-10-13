@@ -1,0 +1,8 @@
+
+  {
+  "StrongPoints": [
+    {"Point": "", "Description": ""},
+    {"Point": "", "Description": ""},
+    {"Point": "", "Description": ""}
+  ]
+} 
