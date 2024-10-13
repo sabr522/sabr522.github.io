@@ -1,4 +1,5 @@
 USE THIS ONE:
 export GROQ_API_KEY="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"
 
+current
 extra: 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
