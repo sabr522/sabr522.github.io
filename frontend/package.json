@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "private": true,
-  "proxy": "https://psalearn-1.onrender.com",
+  "proxy": "https://psalearn.onrender.com",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
